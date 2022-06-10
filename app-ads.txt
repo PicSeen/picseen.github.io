@@ -19,3 +19,6 @@ xandr.com, 13297, RESELLER
 appnexus.com, 13293, RESELLER
 appnexus.com, 13297, RESELLER
 pubmatic.com, 160974, RESELLER, 5d62403b186f2ace
+
+#A4G 
+google.com, pub-1232265399417302, RESELLER, f08c47fec0942fa0
